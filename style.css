@@ -295,9 +295,17 @@ color: rgb(30, 255, 0);
 
  .pomylka{
     position: absolute;
-    color: #ff00bf;
+    color: #ff00ff;
     padding-left: 30%;
-    padding-top: 10%;
+    padding-top: 5%;
     font-size: 150px;
     font-weight: 800;
+ }
+ .pomylka-2 {
+     position: absolute;
+     color: #e5ff00;
+     padding-left: 10%;
+     padding-top: 33%;
+     font-size: 80px;
+     font-weight: 800;
  }
